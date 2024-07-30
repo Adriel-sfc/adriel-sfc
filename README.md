@@ -2,7 +2,7 @@
 
 Olá meu nome é ⚡Adriel
 
-- Estou estudando no alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha orgnização e compartilhamentos dos meus projetos desenvolvidos
 
@@ -11,8 +11,9 @@ Olá meu nome é ⚡Adriel
   -00001089417998sp@al.educacao.sp.gov.br
 
 
+![](https://media.tenor.com/1fpGXO9aK4gAAAAi/neymar.gif)
 
-![](https://media1.tenor.com/m/4j_zmBd3lGoAAAAd/neymar-neymar-jr.gif) 
+
 
 
 
