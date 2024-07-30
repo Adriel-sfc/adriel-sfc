@@ -1,16 +1,23 @@
-## Hi there 👋
+### Bem vindos ao perfil 🥇🏦📸
 
-<!--
-**Adriel-sfc/adriel-sfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá meu nome é ⚡Adriel
 
-Here are some ideas to get you started:
+- Estou estudando no alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha orgnização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Vocẽ entrar em contato comigo 📫
+
+  -00001089417998sp@al.educacao.sp.gov.br
+
+
+
+![](https://media1.tenor.com/m/4j_zmBd3lGoAAAAd/neymar-neymar-jr.gif) 
+
+
+
+  
+
+
+
+
